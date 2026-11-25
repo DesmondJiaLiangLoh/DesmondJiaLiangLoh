@@ -39,7 +39,7 @@ My career spans from 2010 across retail, financial services, telecommunications,
 ## Education
 Bachelor’s degree in Industrial Statistics with Honours, Universiti Utara Malaysia (2010).
 
-Employer source code and data are excluded. Case studies are retrospective or POC descriptions; publication is subject to clearance.
+Employer source code and data are excluded. Case studies are retrospective or POC descriptions.
 
 ## Executable portfolio demonstrations
 
