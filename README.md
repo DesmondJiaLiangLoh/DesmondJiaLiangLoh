@@ -8,5 +8,3 @@ I design and engineer enterprise data solutions across applied machine learning,
 
 ## Focus
 Solution architecture · ML engineering · Data engineering · BI automation · Technical leadership
-
-Add approved project links and contact details before publication.
