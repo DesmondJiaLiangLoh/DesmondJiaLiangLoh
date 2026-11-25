@@ -41,5 +41,7 @@ Bachelor’s degree in Industrial Statistics with Honours, Universiti Utara Mala
 
 ## Executable portfolio demonstrations
 [Forecasting results](https://desmondjialiangloh.github.io/forecast-demo.html) · [Metadata workflow results](https://desmondjialiangloh.github.io/hub-demo.html).
+
 Synthetic reference implementations with reproducible Python results and tests.
-Employer source code and data are excluded. Case studies are retrospective or POC descriptions; publication is subject to clearance.
+
+Employer source code and data are excluded. Case studies are retrospective or POC descriptions; Confidential enterprise information and credentials are excluded.
