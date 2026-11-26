@@ -15,7 +15,7 @@ My career spans from 2010 across retail, financial services, telecommunications,
 ## Executable portfolio demonstrations
 
 - [XGBoost forecasting results](https://desmondjialiangloh.github.io/xgboost-demo.html) — trained synthetic models and evaluation results.
-- [Interactive Hub portal](https://desmondjialiangloh.github.io/hub-portal.html) — fictional asset discovery and metadata exploration.
+- [Data Intelligence Hub](https://desmondjialiangloh.github.io/hub-portal.html) — fictional asset discovery and metadata exploration.
 - [Statistical forecasting results](https://desmondjialiangloh.github.io/forecast-demo.html) · [Metadata workflow results](https://desmondjialiangloh.github.io/hub-demo.html).
 
 ## Capabilities
